@@ -15,8 +15,8 @@ Designed for learning, experiments, and small demonstrations.
 - [Requirements](#requirements)  
 - [Quickstart](#quickstart)  
 - [Repository Structure](#repository-structure)  
-- [How It Works](#how-it-works-technical-summary) 
-- [Contact](#contact)
+- [How It Works](#how-it-works) 
+- [Contact me](#contact-me)
 
 ---
 
@@ -131,21 +131,29 @@ Frase comprimida: 010111011000001101100110
 
 ---
 
-## 📪 Autor
+## Contact me
 
 <div align="center">
+  <br>
+  <i>Fernando Horita Siratuti - Undergraduate - 4th Semester, Computer Engineering @ CEFET-MG</i>
   <br><br>
-     <i>Fernando Horita Siratuti - Graduando - 4º Período de Engenharia de Computação @ CEFET-MG</i>
-  <br><br>
-  
-  [![Gmail][gmail-badge]][gmail-autor2]
-  [![Linkedin][linkedin-badge]][linkedin-autor2]
-  [![GitHub][github-badge]][github-autor2]
-  [![Instagram][instagram-badge]][instagram-autor2]
 
+  <a href="mailto:siratutifernando@gmail.com" target="_blank" rel="noopener">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/fernando-siratuti-503ba8301/" target="_blank" rel="noopener">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/fernando-horita-siratuti" target="_blank" rel="noopener">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/siratuti_/" target="_blank" rel="noopener">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <br><br>
 </div>
 
-[gmail-autor2]: mailto:siratutifernando@gmail.com
-[linkedin-autor2]: https://www.linkedin.com/in/fernando-siratuti-503ba8301/
-[github-autor2]: https://github.com/fernando-horita-siratuti
-[instagram-autor2]: https://www.instagram.com/siratuti_/
