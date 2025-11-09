@@ -15,7 +15,7 @@ Designed for learning, experiments, and small demonstrations.
 - [Requirements](#requirements)  
 - [Quickstart](#quickstart)  
 - [Repository Structure](#repository-structure)  
-- [How It Works (Technical Summary)](#how-it-works-technical-summary) 
+- [How It Works](#how-it-works-technical-summary) 
 - [Contact](#contact)
 
 ---
@@ -61,7 +61,7 @@ Huffman-coding/
 
 ---
 
-## How It Works (Technical Summary)
+## How It Works
 
 - Counts word frequencies in the input.
 - Creates leaf nodes for each word, weighted by frequency.
@@ -131,3 +131,21 @@ Frase comprimida: 010111011000001101100110
 
 ---
 
+## 📪 Autor
+
+<div align="center">
+  <br><br>
+     <i>Fernando Horita Siratuti - Graduando - 4º Período de Engenharia de Computação @ CEFET-MG</i>
+  <br><br>
+  
+  [![Gmail][gmail-badge]][gmail-autor2]
+  [![Linkedin][linkedin-badge]][linkedin-autor2]
+  [![GitHub][github-badge]][github-autor2]
+  [![Instagram][instagram-badge]][instagram-autor2]
+
+</div>
+
+[gmail-autor2]: mailto:siratutifernando@gmail.com
+[linkedin-autor2]: https://www.linkedin.com/in/fernando-siratuti-503ba8301/
+[github-autor2]: https://github.com/fernando-horita-siratuti
+[instagram-autor2]: https://www.instagram.com/siratuti_/
