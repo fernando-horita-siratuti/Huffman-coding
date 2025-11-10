@@ -49,7 +49,7 @@ class huffman:
             newNode = node(word[0], word[1])
             heapq.heappush(self.heap, newNode)
 
-        # CHama a função que faz o merge dos nós da árvore
+        # Chama a função que faz o merge dos nós da árvore
         self.mergeNodes()
 
     def mergeNodes(self):
