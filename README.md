@@ -6,7 +6,7 @@
 
 Individual project of AEDS 2 about the **Huffman Coding** algorithm in Python.  
 Compresses data by building a Huffman tree and generating prefix-free binary codes based on word frequencies.  
-Designed for learning, experiments, and small demonstrations.
+Designed for learning, experiments and small demonstrations.
 
 ---
 
